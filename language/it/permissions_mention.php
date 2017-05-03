@@ -35,6 +35,6 @@ if (empty($lang) || !is_array($lang))
 //
 $lang = array_merge(
     $lang, array(
-        'ACL_U_CAN_MENTION'      => 'Can use the mention system',
+        'ACL_U_CAN_MENTION'      => 'Può utilizzare il gestore delle menzioni utente',
     )
 );
