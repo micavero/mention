@@ -1,4 +1,4 @@
-<?php
+r<?php
 /**
  *
  * phpBB mentions. An extension for the phpBB Forum Software package.
