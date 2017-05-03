@@ -3,7 +3,7 @@ Oggetto: Sei stato menzionato
 Ciao,
 
 Sei appena stato menzionato da "{USERNAME}" su "{SITENAME}".
-Puoi vedere il post in cui sei stato menzionato al link seguente:
+Puoi vedere il post in cui sei stato menzionato al seguente link:
 {U_LINK_TO_TOPIC}
 
 {EMAIL_SIG}
